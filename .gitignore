@@ -1,0 +1,6 @@
+*.mp4
+*.jpg
+dataset/
+dataset_cutter-20210318T031256Z-001/
+*.zip
+logs/
